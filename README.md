@@ -30,6 +30,9 @@ vijay=temp\
 print("Swapped values are:",(surya),(vijay))
 
 
+## OUTPUT:
+![alt text](<Screenshot 2024-03-03 185455.png>)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
